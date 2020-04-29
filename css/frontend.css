@@ -1,0 +1,212 @@
+ body
+           {
+            
+                background-color: whitesmoke;
+                margin: 0;
+                padding: 0;
+               
+                
+           }
+            .test
+            {
+                background-color: white;
+                padding:20px;
+                border: 1px solid silver ;
+                width: auto;
+                text-align: center;   
+            }
+           
+            .ahmed
+            {
+                display: inline;
+                background-color: white;
+                padding:5px;
+                border: 15px solid white;
+                margin: 10px auto;
+                font-size: 50px;
+                color: red;
+                font-weight: bold;
+                margin-right: 250px;
+                margin-left: 250px;
+                
+            }
+           .mor
+           {
+                display: inline;
+                background-color:white;
+                padding:5px;
+                border: 1px solid black;
+                margin: 10px auto white;
+                font-size: 30px;
+                color: silver;
+           }
+           .mors
+           {
+            display: inline;
+                background-color:tomato;
+                padding:5px;
+                border: 1px solid silver;
+                margin: 10px white;
+                font-size: 30px;
+                color: silver;
+                margin-left: 10px;
+
+           }
+           .the
+            {
+                
+                background-color: white;
+                padding:20px;
+                border: 1px solid silver ;
+                margin-top: 10px;
+                width: auto;
+                height: auto;
+                font-size: 22px;
+                width: auto;
+                text-align: center;
+               
+                
+              
+                
+            }
+         
+            .new
+            {
+                background-color: whitesmoke;
+                height: 100px;
+                width: 880px;
+               margin: 10px auto; 
+               padding: 10px;
+               border: 1px solid silver;
+               height: auto;
+              
+               
+               
+            } 
+           
+            .man
+            {
+                display: inline;
+                
+                background-color: whitesmoke;
+                padding:50px;
+                width: 350px;
+                border: 1px solid silver ;
+                margin: 50px  ;
+                font-size: 22px ;
+                margin-right: 50px;
+                
+            }
+            .noo
+            {
+                display: inline;
+                padding: 50px;
+                
+                border: 3px white;
+                width: auto;
+              
+               margin-top: 20px;
+               float: auto;
+
+
+            }
+           .ne
+           {
+               font-size: 27px;
+               margin-left: 160px;
+           }
+           .moo
+            {
+                display: inline;
+                background-color: snow;
+                padding:20px;
+                border: 1px solid silver ;
+                margin: 10px auto ;
+                width: 800px;
+                height: 200px;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                margin-right: 500px;
+
+               
+
+            }
+            .zoo
+            {
+                background-color: snow;
+                display: inline;
+                font-size: 22px;
+                height: 50px;
+                float: right;
+            }
+            .roo
+            {
+                background-color: tomato;
+                width: 100PX;
+                padding: 15px;
+                border: 1px black;
+                color: black;
+                float: right;
+                height: 44px;
+                font-size: 35px;
+               
+            }
+           
+            
+            li
+            {
+                margin-bottom: 7px;
+                text-align: left;
+            }
+            mark
+            {
+                font-size: 35px;
+                background-color: yellowgreen;
+            }  
+            blockquote
+            {
+                font-size: 22px;
+            }  
+
+            hr
+            {
+                border: 1px solid #EEE;
+                
+                
+            }   
+            .mm
+            {
+                margin-left: 150px;
+            }
+            .ss
+            {
+                margin-left: 150px;
+            }
+.tt
+{
+    width: auto;
+    height: 200px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    
+    
+}
+.button
+{
+    width: 1470;
+    word-spacing: 200px;
+    margin: auto;
+    font-size: 20px;
+    margin-left: 50px auto ;
+
+    
+}
+a{
+    text-decoration: none;
+}    
+hr{
+    width: 1470px;
+    border: 0.5px solid rgb(102, 99, 99);
+    background-color:rgb(102, 99, 99) ;
+    
+}  

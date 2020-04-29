@@ -1,0 +1,229 @@
+body
+{
+     background-color: whitesmoke;
+     margin: 0;
+     padding: 0;
+    
+     
+}
+ .heading
+ {
+     background-color: white;
+     padding:20px;
+     border: 1px solid silver ;
+     width: auto;
+     margin: auto;
+     text-align: center; 
+       
+ }
+
+ .name
+ {
+     display: inline;
+     background-color: white;
+     padding:5px;
+     
+     
+     font-size: 50px;
+     color: red;
+     font-weight: bold;
+    margin-right: -50px;
+     margin-left: 150px;
+     
+ }
+.aA
+{
+     display: inline;
+     background-color:white;
+     padding:5px;
+     border: 1px solid  gray;
+  
+     font-size: 30px;
+     color: silver;
+     margin-left: 100px;
+ 
+}
+.aA:hover
+{
+    color: black;
+    border: 1px solid black;
+  
+    
+}
+.aB
+{
+ display: inline;
+     background-color:#ec5252;
+     padding:5px;
+     border: 1px solid silver;
+
+     font-size: 30px;
+     color: silver;
+     margin-left: 10px;
+
+}
+.ainput
+{
+     width: 300px;
+     height: 35px;
+     background-color: snow;
+     border: 1px solid rgb(0, 162, 255);
+ 
+     
+}
+.binput
+{
+    width: 80px;
+    height: 35px;
+    margin-left: -22px;
+    margin-right: 250px;
+    background-color:rgb(0, 162, 255);
+    border:1px solid rgb(0, 162, 255) ;
+}
+.binput:hover
+{
+     background-color: yellowgreen;
+}
+a 
+{
+     text-align: center;
+     text-decoration: none;
+     margin: 15px;
+     color: gray;
+     font-size: 20px;
+}
+.underhead
+{
+    width: auto;
+    text-align: center;
+    height: 40px;
+    background: #DDD;
+    
+} 
+.new:hover
+{
+    font-size: 30px;
+    color:#ec5252;
+    font-weight: bolder;
+    
+ 
+}  
+.new:active{color: rgb(0, 162,255)}  
+ 
+
+.center
+{
+    background-image:url('../images/picture.png');
+    width: 1470px;
+    height: 318px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    text-align: center;
+    position: center ;
+    margin:  auto;
+    
+}   
+
+.cinput
+{
+    width: 300px;
+    height: 35px;
+    background-color: snow;
+    border: 1px solid rgb(0, 162, 255);
+ 
+
+}
+.dinput
+{
+    width: 80px;
+    height: 35px;
+    margin-left: -22px;
+    background-color:rgb(0, 162, 255);
+    border:1px solid rgb(0, 162, 255);
+    margin-top: 240px;
+    margin-right: 930px;
+}
+.dinput:hover
+{
+    background-color: yellowgreen;
+}
+.bigger
+{
+    padding:auto;
+    width: 1300px;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+.abigger
+{
+    color: rgb(43, 43, 43);
+    height:  auto;
+    width:1400px;
+}
+
+
+h5{
+    color: black;
+    
+
+}
+
+
+p
+{
+    color: gray;
+    
+}
+a
+{
+    margin-right: 0;
+}
+.nn
+{
+    display: inline;
+    margin: 0;
+    border: 0;
+    height: auto;
+    
+}
+span
+{
+    color: black;
+    
+}
+.mm
+{
+    width: 270px;
+    background-color: white;
+    margin: 0;
+    border: 1px solid silver;
+    margin-left: 13px;
+    height: 170px;
+    margin-top: -2PX;
+}
+.nn:hover
+{
+ opacity: 0.5;   
+ transform: scale(.9);
+}
+.ss
+{
+    width: 1470px;
+}
+.tt
+{
+    width: auto;
+    height: 200px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+}
+.button
+{
+    word-spacing: 200px;
+    font-size: 16px;
+}
+input:focus
+{
+ outline: none;
+}

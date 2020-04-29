@@ -1,0 +1,52 @@
+
+.ahmed
+            {
+                background-image: url('../images/picture3.png');
+                width: 1486px;
+                height: 892;
+                margin: auto;
+            }
+            img
+            {
+                margin-left: 100px;
+                margin-top: 50px;
+            }
+            .silent
+            {
+                text-align: center;
+                margin-top: 130px;
+            }
+            input
+            {
+                background-color: snow;
+                height: 50px;
+                width: 400px;
+                opacity: 0.7;
+                border: 1px solid silver;
+                border-radius: 5px;
+                margin-top: 30px;
+            }
+            p
+            {
+                font-size: 40px;
+                color: #045e72;
+            }
+            .ss
+            {
+                background-color: #ec5252;
+                opacity: 1;
+                border: 1px solid #ec5252;
+            }
+            input:hover
+            {
+                opacity: 1;
+            }
+           a
+           {
+               text-decoration: none;
+               color:#ec5252 ;
+           }
+           .ss:hover
+           {
+               opacity: 0.7;
+           }
