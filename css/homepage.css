@@ -64,12 +64,19 @@ body
 }
 .ainput
 {
-     width: 300px;
-     height: 35px;
-     background-color: snow;
-     border: 1px solid rgb(0, 162, 255);
+     
+    width: 200px;
+    height: 35px;
+    background-color: snow;
+    border: 1px solid rgb(0, 162, 255);
+    border-radius: 25px;
+    transition: width .3s;
  
      
+}
+.ainput:focus {
+    outline: none;
+    width: 300px;
 }
 .binput
 {
