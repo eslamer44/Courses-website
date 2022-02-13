@@ -63,12 +63,12 @@ body
 
 }
 .ainput
-{     
+{   
     width: 200px;
     height: 35px;
     background-color: snow;
     border: 1px solid rgb(0, 162, 255);
-    transition: width .3s;    
+    transition: width .3s;
 }
 .ainput:focus {
     outline: none;
