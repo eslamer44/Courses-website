@@ -178,14 +178,16 @@ p
 a
 {
     margin-right: 0;
+    transition : .3s;
 }
 .nn
 {
+    
     display: inline;
     margin: 0;
     border: 0;
     height: auto;
-    
+    transition: .3s;
 }
 span
 {
